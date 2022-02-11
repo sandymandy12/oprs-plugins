@@ -1,0 +1,28 @@
+osrs wiki crowdsourcing
+
+** add to World hopper plugin for random world **
+if (previous)
+			{
+				/*
+				worldIdx--;
+
+				if (worldIdx < 0)
+				{
+					worldIdx = worlds.size() - 1;
+				}*/
+				worldIdx = Utility.rand(0,worlds.size());
+			}
+			else
+			{
+				worldIdx = 29;
+				/*
+				worldIdx++;
+
+				if (worldIdx >= worlds.size())
+				{
+					worldIdx = 0;
+				}
+				 */
+			}
+** ~ **
+

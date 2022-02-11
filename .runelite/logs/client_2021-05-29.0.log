@@ -1,0 +1,438 @@
+2021-05-29 00:05:51 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 00:05:51 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 00:15:20 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 00:15:20 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 00:15:20 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 00:15:51 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 00:15:51 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 00:25:52 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 00:25:52 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 00:35:52 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 00:35:52 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 00:45:20 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 00:45:21 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 00:45:21 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 00:45:52 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 00:45:52 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 00:55:52 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 00:55:53 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 01:05:53 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 01:05:53 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 01:15:21 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 01:15:21 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 01:15:21 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 01:15:53 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 01:15:53 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 01:25:53 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 01:25:53 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 01:35:53 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 01:35:53 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 01:45:21 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 01:45:21 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 01:45:21 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 01:45:54 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 01:45:54 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 01:55:54 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 01:55:54 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 02:05:55 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 02:05:55 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 02:15:21 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 02:15:21 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 02:15:21 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 02:15:55 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 02:15:55 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 02:25:55 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 02:25:55 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 02:35:56 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 02:35:56 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 02:45:21 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 02:45:21 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 02:45:21 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 02:45:56 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 02:45:56 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 02:55:57 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 02:55:57 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 03:05:57 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 03:05:57 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 03:15:21 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 03:15:22 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 03:15:22 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 03:15:57 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 03:15:57 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 03:25:57 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 03:25:57 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 03:35:57 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 03:35:57 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 03:45:22 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 03:45:22 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 03:45:22 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 03:45:57 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 03:45:57 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 03:55:58 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 03:55:58 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 04:05:58 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 04:05:59 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 04:15:22 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 04:15:22 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 04:15:22 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 04:15:59 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 04:15:59 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 04:25:59 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 04:25:59 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 04:35:59 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 04:35:59 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 04:45:22 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 04:45:22 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 04:45:22 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 04:46:00 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 04:46:00 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 04:56:00 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 04:56:00 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 05:06:00 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 05:06:00 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 05:15:22 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 05:15:22 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 05:15:22 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 05:16:00 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 05:16:00 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 05:26:00 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 05:26:00 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 05:36:01 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 05:36:01 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 05:45:22 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 05:45:22 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 05:45:22 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 05:46:01 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 05:46:01 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 05:56:02 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 05:56:02 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 06:06:02 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 06:06:02 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 06:15:22 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 06:15:22 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 06:15:22 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 06:16:02 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 06:16:02 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 06:26:02 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 06:26:02 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 06:36:02 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 06:36:03 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 06:45:22 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 06:45:22 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 06:45:22 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 06:46:03 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 06:46:03 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 06:56:03 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 06:56:03 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 07:06:03 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 07:06:03 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 07:15:22 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 07:15:23 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 07:15:23 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 07:16:04 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 07:16:04 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 07:26:04 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 07:26:04 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 07:36:04 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 07:36:04 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 07:45:23 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 07:45:23 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 07:45:23 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 07:46:04 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 07:46:04 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 07:56:04 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 07:56:04 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 08:06:04 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 08:06:04 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 08:15:23 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 08:15:23 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 08:15:23 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 08:16:05 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 08:16:05 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 08:26:05 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 08:26:05 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 08:36:05 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 08:36:06 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 08:45:23 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 08:45:24 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 08:45:24 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 08:46:06 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 08:46:06 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 08:56:06 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 08:56:06 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 09:06:07 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 09:06:07 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 09:15:24 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 09:15:24 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 09:15:24 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 09:16:07 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 09:16:07 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 09:26:07 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 09:26:07 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 09:36:08 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 09:36:08 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 09:45:24 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 09:45:25 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 09:45:25 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 09:46:08 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 09:46:08 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 09:56:08 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 09:56:08 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 10:06:08 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 10:06:09 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 10:15:25 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 10:15:25 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 10:15:25 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 10:16:08 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 10:16:09 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 10:26:09 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 10:26:09 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 10:36:09 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 10:36:10 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 10:45:25 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 10:45:25 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 10:45:25 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 10:46:09 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 10:46:10 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 10:56:10 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 10:56:10 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 11:06:10 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 11:06:10 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 11:15:25 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 11:15:26 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 11:15:26 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 11:16:11 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 11:16:11 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 11:26:11 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 11:26:11 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 11:36:12 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 11:36:12 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 11:45:26 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 11:45:26 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 11:45:26 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 11:46:12 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 11:46:12 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 11:56:12 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 11:56:12 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 12:06:12 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 12:06:13 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 12:15:26 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 12:15:27 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 12:15:27 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 12:16:13 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 12:16:13 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 12:26:13 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 12:26:13 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 12:36:14 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 12:36:14 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 12:45:27 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 12:45:27 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 12:45:27 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 12:46:14 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 12:46:14 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 12:56:14 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 12:56:14 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 13:06:14 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 13:06:14 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 13:15:27 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 13:15:28 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 13:15:28 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 13:16:15 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 13:16:15 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 13:26:15 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 13:26:15 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 13:36:15 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 13:36:15 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 13:45:28 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 13:45:29 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 13:45:29 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 13:46:16 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 13:46:16 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 13:56:16 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 13:56:16 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 14:06:16 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 14:06:16 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 14:15:29 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 14:15:29 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 14:15:29 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 14:16:16 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 14:16:16 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 14:26:16 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 14:26:16 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 14:36:17 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 14:36:17 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 14:45:29 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 14:45:30 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 14:45:30 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 14:46:17 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 14:46:17 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 14:56:17 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 14:56:17 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 15:06:18 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 15:06:18 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 15:15:30 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 15:15:30 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 15:15:30 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 15:16:18 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 15:16:18 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 15:26:18 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 15:26:18 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 15:36:18 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 15:36:18 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 15:45:30 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 15:45:30 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 15:45:30 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 15:46:19 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 15:46:19 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 15:56:19 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 15:56:19 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 16:06:19 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 16:06:19 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 16:15:30 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 16:15:31 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 16:15:31 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 16:16:20 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 16:16:20 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 16:26:20 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 16:26:20 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 16:36:20 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 16:36:20 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 16:45:31 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 16:45:31 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 16:45:31 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 16:46:20 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 16:46:20 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 16:56:21 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 16:56:21 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 17:06:21 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 17:06:21 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 17:15:31 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 17:15:31 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 17:15:31 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 17:16:22 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 17:16:22 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 17:26:22 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 17:26:22 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 17:36:22 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 17:36:23 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 17:45:31 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 17:45:32 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 17:45:32 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 17:46:23 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 17:46:23 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 17:56:23 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 17:56:23 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 18:06:23 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 18:06:23 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 18:15:32 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 18:15:32 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 18:15:32 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 18:16:23 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 18:16:23 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 18:36:24 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 18:36:24 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 18:45:32 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 18:45:32 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 18:45:32 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 18:46:24 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 18:46:24 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 18:56:25 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 18:56:25 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 19:06:25 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 19:06:25 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 19:15:32 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 19:15:32 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 19:15:32 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 19:16:25 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 19:16:25 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 19:26:25 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 19:26:25 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 19:36:25 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 19:36:25 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 19:45:32 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 19:45:33 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 19:45:33 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 19:46:25 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 19:46:25 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 19:56:26 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 19:56:26 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 20:06:26 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 20:06:26 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 20:15:33 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 20:15:33 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 20:15:33 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 20:16:26 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 20:16:26 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 20:26:27 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 20:26:27 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 20:36:28 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 20:36:28 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 20:45:33 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 20:45:33 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 20:45:33 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 20:46:28 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 20:46:28 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 20:56:28 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 20:56:28 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 21:06:28 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 21:06:29 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 21:15:33 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 21:15:33 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 21:15:33 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 21:16:29 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 21:16:29 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 21:26:29 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 21:26:29 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 21:36:29 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 21:36:29 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 21:45:33 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 21:45:34 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 21:45:34 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 21:46:30 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 21:46:30 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 21:56:30 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 21:56:30 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 22:06:31 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 22:06:31 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 22:15:34 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 22:15:35 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 22:15:35 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 22:26:31 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 22:26:31 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 22:36:31 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 22:36:31 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 22:45:35 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 22:45:35 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 22:45:35 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 22:46:31 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 22:46:31 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 22:56:32 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 22:56:32 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 23:06:32 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 23:06:32 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 23:15:35 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 23:15:35 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 23:15:35 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 23:16:33 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 23:16:33 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 23:26:33 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 23:26:33 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 23:30:43 [Client] DEBUG net.runelite.client.callback.Hooks - Graphics reset!
+2021-05-29 23:30:50 [Client] DEBUG net.runelite.client.callback.Hooks - Graphics reset!
+2021-05-29 23:30:50 [Client] DEBUG net.runelite.client.callback.Hooks - Graphics reset!
+2021-05-29 23:30:52 [AWT-EventQueue-0] DEBUG n.r.client.config.ConfigManager - Setting configuration value for notes.notesData to 
+2021-05-29 23:36:33 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 23:36:33 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 23:38:34 [Client] DEBUG net.runelite.client.callback.Hooks - Graphics reset!
+2021-05-29 23:45:35 [pool-2-thread-1] DEBUG n.runelite.http.api.item.ItemClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js
+2021-05-29 23:45:36 [pool-2-thread-1] WARN  n.runelite.http.api.item.ItemClient - Error looking up prices: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/item/prices.js}
+2021-05-29 23:45:36 [pool-2-thread-1] DEBUG net.runelite.client.game.ItemManager - Loaded 3752 prices
+2021-05-29 23:46:33 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 23:46:33 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 23:56:34 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Built URI: https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js
+2021-05-29 23:56:34 [pool-2-thread-1] DEBUG n.runelite.http.api.feed.FeedClient - Error looking up feed: Response{protocol=h2, code=404, message=, url=https://api.runelite.net/runelite-1.7.10-SNAPSHOT/feed.js}
+2021-05-29 23:57:26 [Client] DEBUG client-patch - Game state changed: LOGGING_IN
+2021-05-29 23:57:26 [Client] DEBUG n.r.c.p.herbiboars.HerbiboarPlugin - Reset trail data
+2021-05-29 23:57:28 [Client] DEBUG client-patch - Game state changed: LOGIN_SCREEN
+2021-05-29 23:57:34 [AWT-EventQueue-0] DEBUG n.r.client.config.ConfigManager - Setting configuration value for runelite.clientBounds to 0:0:1440:860
+2021-05-29 23:57:34 [AWT-EventQueue-0] DEBUG n.r.client.config.ConfigManager - Setting configuration value for runelite.clientMaximized to true

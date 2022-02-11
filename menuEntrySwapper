@@ -1,0 +1,14 @@
+	## MenuEntrySwapperplugin
+		swap("Wear", "use", config::swapTeleportItem);
+
+
+@ConfigItem(
+			keyName = "swapDeecat",
+			name = "Deecat items",
+			description = "Swap Wear - use (wealth);",
+			section = itemSection
+	)
+	default boolean swapDeecat()
+	{
+		return true;
+	}
